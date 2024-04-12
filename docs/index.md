@@ -6,11 +6,11 @@
 ## План обучения
 **Успешное прохождение учебной программы подразумевает выполнение следующих заданий:**
 
-1. [Лекции](https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/lecture.md) **(Трудозатраты 30 часов)**
-2. [Лабораторные работы](https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/labs.md) **(Трудозатраты +- 24 часа)**
+1. [Лекции](https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/lecture) **(Трудозатраты 30 часов)**
+2. [Лабораторные работы](https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/labs) **(Трудозатраты +- 24 часа)**
 
 
-- [Дополнительные материалы](https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/additional_materials.md)
+- [Дополнительные материалы](https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/additional_materials)
 
 ## Методы оценивания
 - Для получения оценки 3 необходимо выполнить не менее 60% заданий во всех курсах. Среднее значение должно быть между 60 и 75 процентами. 
