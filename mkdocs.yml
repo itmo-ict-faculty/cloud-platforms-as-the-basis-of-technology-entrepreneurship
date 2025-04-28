@@ -31,6 +31,7 @@ nav:
   - Education:
     - Labs: "education/labs.md"
     - Lecture: "education/lecture.md"
+    - Exam: "education/exam.md"
     #- Practices: "education/practice.md"
     #- Additional materials: "education/additional_materials.md"
   #- Student case: 
